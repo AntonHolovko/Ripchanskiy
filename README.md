@@ -1,4 +1,4 @@
-[![Header](https://i.pinimg.com/originals/1e/0a/57/1e0a57f68f68028a4ad5bb6467474ff9.gif "Header")](https://www.linkedin.com/in/sergey-ripchanskiy
+[![Header](https://i.gifer.com/6GcM.gif "Header")](https://www.linkedin.com/in/sergey-ripchanskiy
 )
 <p align='center'>
 <a href="https://www.facebook.com/sergey.ripchanskiy/"><img height="60" src="https://lh3.googleusercontent.com/proxy/2lmNwzUQ9arT3ExgtpLfLUY_huySpNtysbv0C_JY6GkU1pZp2HkHWsB3q3VRsnpUSwT0BK6IWNatwgOTw7ISrl4yUXs?raw=true"></a>
