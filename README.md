@@ -5,3 +5,6 @@
   <a href="mailto:sergeyripchanskiy@gmail.com"><img height="60" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg?raw=true" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sergey-ripchanskiy/"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png?raw=true"></a>
 </p>
+
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripchanskiy&theme=dark&hide_langs_below=1)
+<br/>
