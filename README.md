@@ -2,7 +2,7 @@
 )
 
 <p align='center'>
-<a href="https://www.facebook.com/sergey.ripchanskiy/"><img height="30" src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg"></a>
+<a href="https://www.facebook.com/sergey.ripchanskiy/"><img height="60" src="https://www.searchpng.com/wp-content/uploads/2018/12/Splash-Facebook-Icon-Png-715x715.png" target="_blank"></a>
 </p>
 
 ### Hi there 👋
