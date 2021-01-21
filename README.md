@@ -2,18 +2,14 @@
 )
 
 <p align='center'>
-<a href="https://www.facebook.com/sergey.ripchanskiy/"><img height="60" src="https://www.searchpng.com/wp-content/uploads/2018/12/Splash-Facebook-Icon-Png-715x715.png" target="_blank"></a>
+<a href="https://www.facebook.com/sergey.ripchanskiy/"><img height="120" src="https://www.searchpng.com/wp-content/uploads/2018/12/Splash-Facebook-Icon-Png-715x715.png" target="_blank"></a>
+  
+<a href="https://www.linkedin.com/in/sergey-ripchanskiy/"><img height="120" src="https://www.searchpng.com/wp-content/uploads/2019/05/Linkedin-Splash.jpg" target="_blank"></a>
+  
+<a href="mailto:sergeyripchanskiy@gmail.com"><img height="120" src="https://www.searchpng.com/wp-content/uploads/2019/02/Gmail-Icon-PNG-715x715.png" target="_blank"></a>
 </p>
 
 ### Hi there 👋
 I'm happy to great you on my page.
-<p>
-https://www.linkedin.com/in/sergey-ripchanskiy
-  </p>
-  <p>
-  https://www.facebook.com/sergey.ripchanskiy
-  </p>
-  <p>
-sergeyripchanskiy@gmail.com
-  </p>
+
   
