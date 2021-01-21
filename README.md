@@ -1,4 +1,4 @@
-[![Header](https://miro.medium.com/max/1000/1*uZ094Kxwv_qLih3tn9AZ6Q.jpeg "Header")](https://www.linkedin.com/in/sergey-ripchanskiy
+[![Header](https://bigcodenerd.org/wp-content/uploads/2020/07/reactjs.png "Header")](https://www.linkedin.com/in/sergey-ripchanskiy
 )
 <p align='center'>
 <a href="https://www.facebook.com/sergey.ripchanskiy/"><img height="60" src="https://lh3.googleusercontent.com/proxy/2lmNwzUQ9arT3ExgtpLfLUY_huySpNtysbv0C_JY6GkU1pZp2HkHWsB3q3VRsnpUSwT0BK6IWNatwgOTw7ISrl4yUXs?raw=true"></a>
